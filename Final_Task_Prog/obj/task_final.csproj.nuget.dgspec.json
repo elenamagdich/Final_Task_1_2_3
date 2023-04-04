@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elena\\Desktop\\C#_HW_sem9_HW\\task_final\\task_final.csproj": {}
+    "C:\\Users\\elena\\Desktop\\Финальная задание\\Final_Task_Prog\\task_final.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elena\\Desktop\\C#_HW_sem9_HW\\task_final\\task_final.csproj": {
+    "C:\\Users\\elena\\Desktop\\Финальная задание\\Final_Task_Prog\\task_final.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elena\\Desktop\\C#_HW_sem9_HW\\task_final\\task_final.csproj",
+        "projectUniqueName": "C:\\Users\\elena\\Desktop\\Финальная задание\\Final_Task_Prog\\task_final.csproj",
         "projectName": "task_final",
-        "projectPath": "C:\\Users\\elena\\Desktop\\C#_HW_sem9_HW\\task_final\\task_final.csproj",
+        "projectPath": "C:\\Users\\elena\\Desktop\\Финальная задание\\Final_Task_Prog\\task_final.csproj",
         "packagesPath": "C:\\Users\\elena\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elena\\Desktop\\C#_HW_sem9_HW\\task_final\\obj\\",
+        "outputPath": "C:\\Users\\elena\\Desktop\\Финальная задание\\Final_Task_Prog\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elena\\AppData\\Roaming\\NuGet\\NuGet.Config"
