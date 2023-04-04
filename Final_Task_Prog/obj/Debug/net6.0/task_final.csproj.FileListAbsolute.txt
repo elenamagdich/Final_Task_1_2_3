@@ -1,0 +1,15 @@
+C:\Users\elena\Desktop\C#_HW_sem9_HW\task_final\bin\Debug\net6.0\task_final.exe
+C:\Users\elena\Desktop\C#_HW_sem9_HW\task_final\bin\Debug\net6.0\task_final.deps.json
+C:\Users\elena\Desktop\C#_HW_sem9_HW\task_final\bin\Debug\net6.0\task_final.runtimeconfig.json
+C:\Users\elena\Desktop\C#_HW_sem9_HW\task_final\bin\Debug\net6.0\task_final.dll
+C:\Users\elena\Desktop\C#_HW_sem9_HW\task_final\bin\Debug\net6.0\task_final.pdb
+C:\Users\elena\Desktop\C#_HW_sem9_HW\task_final\obj\Debug\net6.0\task_final.csproj.AssemblyReference.cache
+C:\Users\elena\Desktop\C#_HW_sem9_HW\task_final\obj\Debug\net6.0\task_final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elena\Desktop\C#_HW_sem9_HW\task_final\obj\Debug\net6.0\task_final.AssemblyInfoInputs.cache
+C:\Users\elena\Desktop\C#_HW_sem9_HW\task_final\obj\Debug\net6.0\task_final.AssemblyInfo.cs
+C:\Users\elena\Desktop\C#_HW_sem9_HW\task_final\obj\Debug\net6.0\task_final.csproj.CoreCompileInputs.cache
+C:\Users\elena\Desktop\C#_HW_sem9_HW\task_final\obj\Debug\net6.0\task_final.dll
+C:\Users\elena\Desktop\C#_HW_sem9_HW\task_final\obj\Debug\net6.0\refint\task_final.dll
+C:\Users\elena\Desktop\C#_HW_sem9_HW\task_final\obj\Debug\net6.0\task_final.pdb
+C:\Users\elena\Desktop\C#_HW_sem9_HW\task_final\obj\Debug\net6.0\task_final.genruntimeconfig.cache
+C:\Users\elena\Desktop\C#_HW_sem9_HW\task_final\obj\Debug\net6.0\ref\task_final.dll
